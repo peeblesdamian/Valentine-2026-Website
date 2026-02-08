@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 25em;
+  padding: 1.5em;
+  border-radius: 10%;
+}
+.logo:hover, .button:hover {
+  filter: drop-shadow(0 0 2em #ffffffaa);
+  transform: scale(1.025);
+  transition: transform 0.5s ease-in-out;
+}
+
+.button {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  height: 1em;
+  padding: 1.5em;
+  border-radius: 5;
+  color: #FA003F;
+  background-color: #ffffff;
+  white-space: pre-wrap;
+}
+.button:disabled {
+  opacity: 0.75;
+  cursor: not-allowed;
+}
+
+
+.welcome {
+  font-size: x-large;
+}
