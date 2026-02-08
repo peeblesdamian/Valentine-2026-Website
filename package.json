@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{peeblesdamian}.github.io/{Valentine-2026-Website}/",
+  "homepage": "https://peeblesdamian.github.io/Valentine-2026-Website/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
