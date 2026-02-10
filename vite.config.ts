@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/Valentine-2026-Website/'
+  base: '/'
 })
