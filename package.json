@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/peeblesdamian/Valentine-2026-Website/",
+  "homepage": "https://iloveyousavannah.xyz",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
